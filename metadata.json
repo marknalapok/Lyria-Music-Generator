@@ -1,0 +1,6 @@
+{
+  "name": "Lyria Music Generator",
+  "description": "Generate custom soundtracks, marketing jingles, and professional background music from text prompts or images using Google Lyria AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
